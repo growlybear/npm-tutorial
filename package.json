@@ -1,0 +1,23 @@
+{
+  "name": "npm-tutorial",
+  "version": "0.0.1",
+  "description": "Sample npm module, useful as boilerplate",
+  "private": true,
+  "main": "./lib/index",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/growlybear/npm-tutorial.git"
+  },
+  "author": "Michael Allan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/growlybear/npm-tutorial/issues"
+  }
+}
